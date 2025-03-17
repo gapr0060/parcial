@@ -1,0 +1,2 @@
+# parcial
+parcial de computación
